@@ -2,6 +2,7 @@
 .vs/
 Debug/
 x64/
+表达式求值/
 Release/
 *.user
 *.ipch

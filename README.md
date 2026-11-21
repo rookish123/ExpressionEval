@@ -25,7 +25,7 @@ src/
 README.md      本说明
 .gitignore     忽略 .vs、Debug、x64、*.user、*.bak
 
-.vs/、Debug/、x64/ 是 VS 打开或编译后自动生成的，已在 .gitignore 中忽略，可随时删除。
+.vs/、Debug/、x64/、表达式求值/（中间文件）都是 VS 打开或编译后自动生成的，已在 .gitignore 中忽略，可随时删除，重新生成即可。
 ```
 
 ## 编译运行
