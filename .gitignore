@@ -1,0 +1,16 @@
+# VS 生成物与本地缓存
+.vs/
+Debug/
+x64/
+Release/
+*.user
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
+*.tlog
+
+# 本地备份文件
+*.bak
