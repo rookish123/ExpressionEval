@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stack.h" />
+    <ClInclude Include="src\stack.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c" />
-    <ClCompile Include="caculate.c" />
-    <ClCompile Include="brackets.c" />
-    <ClCompile Include="linkstack.c" />
+    <ClCompile Include="src\main.c" />
+    <ClCompile Include="src\caculate.c" />
+    <ClCompile Include="src\brackets.c" />
+    <ClCompile Include="src\linkstack.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

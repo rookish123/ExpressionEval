@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stack.h">
+    <ClInclude Include="src\stack.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
+    <ClCompile Include="src\main.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="caculate.c">
+    <ClCompile Include="src\caculate.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="brackets.c">
+    <ClCompile Include="src\brackets.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="linkstack.c">
+    <ClCompile Include="src\linkstack.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
